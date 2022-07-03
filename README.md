@@ -1,7 +1,6 @@
 - @thebilderberg
 
-Мир — хорошо, однако при том дремать не надлежит, чтоб не связали рук, да и солдаты чтоб не сделались бабами.
-Петр I.
+Нужно носить в себе ещё хаос, чтобы быть в состоянии родить танцующую звезду. Фридрих Ницше. 
 
 <!---
 thebilderberg/thebilderberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
